@@ -6,7 +6,10 @@ public class Test2 {
 
     public static void main(String[] args) {
 
-      sumOfDivisors(12);
+        sumOfDivisors(6);
+
+        System.out.println(Math.sqrt(6));
+
 
 
     }
